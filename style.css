@@ -50,7 +50,7 @@ body {
     max-width: 980px;
     grid-template-columns: auto auto;
     /*grid-template-rows: ;*/
-    gap: 10px 10px;
+    gap: 12px 12px;
     max-width: 840px;
     margin-left: 40px;
     margin-right: 40px;
